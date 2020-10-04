@@ -1,4 +1,9 @@
-# Sosok yang Nyata
+---
+layout: post
+title: "Sosok Yang Nyata"
+categories:
+Author: Maulana Rafly
+---
 
 Figura itu terus terdiam
 dan mataku tak sedikitpun berlari kemana-mana.
